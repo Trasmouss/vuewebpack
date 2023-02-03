@@ -4,7 +4,7 @@
   "description": "Vue with  Webpack learning tests",
   "main": "index.js",
   "scripts": {
-    "start":"webpack-dev-server --hot --open",
+    "start":"webpack serve",
     "build":"webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
