@@ -4,8 +4,8 @@
   "description": "Vue with  Webpack learning tests",
   "main": "index.js",
   "scripts": {
-    "start":"webpack serve",
-    "build":"webpack",
+    "start": "webpack serve",
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Trasmouss/vuewebpack#readme",
   "dependencies": {
-    "vue": "^2.6.11"
+    "vue": "^2.7.14"
   },
   "devDependencies": {
     "css-loader": "^6.7.3",
